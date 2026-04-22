@@ -49,7 +49,8 @@ python test.py
 mcp dev test.py
 ```
 
-结果：![be44292eaa2b45eb80ddcbe12156736f](C:\Users\81955\AppData\Local\Temp\be44292eaa2b45eb80ddcbe12156736f.png)
+结果：<img width="2491" height="1079" alt="c1d1830955c448f695aaa204aebbd2ba" src="https://github.com/user-attachments/assets/9a7edda7-3c76-4fe6-95b2-70e87455736c" />
+
 
 ## 六、对接 Cherry Studio（关键配置）
 
@@ -67,5 +68,6 @@ mcp dev test.py
 
 - 帮我用 calculator 计算 10 + 20
 
-  ![3734b8747f844ab59e172a0e86ce8975](C:\Users\81955\AppData\Local\Temp\3734b8747f844ab59e172a0e86ce8975.png)
+ <img width="1149" height="637" alt="5fac0d1f1e624ad2b1ebf45b5c9cc2d9" src="https://github.com/user-attachments/assets/556702e1-1292-4069-a5a3-30f5f617f5b4" />
+
 
